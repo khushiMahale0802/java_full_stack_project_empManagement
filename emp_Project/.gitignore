@@ -1,0 +1,15 @@
+# Node (React/Angular)
+node_modules/
+build/
+dist/
+
+# Java / Spring Boot
+target/
+*.class
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
